@@ -1,0 +1,10 @@
+Django>=4.2.6,<5.0
+djangorestframework>=3.14.0,<3.15.0
+django-filter>=24.3,<25.0
+djangorestframework-simplejwt>=5.3.1,<5.4.0
+psycopg2-binary>=2.9.6,<3.0.0
+python-dotenv==1.0.0
+pillow>=10.2.0,<11.0.0
+drf-yasg==1.21.7
+openpyxl>=3.1.2,<3.3.0
+drf-nested-routers>=0.94.0,<0.95.0
